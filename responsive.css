@@ -1,0 +1,416 @@
+@media(max-width:956px){
+    #header h1{
+        color: #282828;
+        font-size: 50px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+
+    #platform{
+        padding: 50px 30px;
+    }
+    .first-col{
+        width: 50%;
+    }
+    .first-col h1{
+        font-size: 30px;
+        color: #282828;
+        line-height: 35px;
+        margin-top: 15px;
+        margin-bottom: 50px;
+    }
+
+    .first-col p{
+        line-height: 20px;
+    }
+
+    .second-col{
+        width:500px;
+    }
+
+    #features h1{
+        font-size: 30px;
+        color: #282828;
+        line-height: 35px;
+        margin-top: 15px;
+        margin-bottom: 50px;
+    }
+
+
+    #res-design{
+        padding: 80px 0;
+        overflow: hidden;
+    }
+
+    .res-col1{
+        width: 50%;
+    }
+    .res-col1 img{
+        width: 100%;
+    }
+    
+    .res-col2{
+        padding: 15px;
+        width: 50%;
+    }
+    .res-col2 h1{
+        font-size: 30px;
+        line-height: 35px;
+        margin-top: 25px;
+        margin-bottom: 40px;
+    }
+    .res-col2 p{
+        line-height: 20px;
+    }
+
+    .brands img{
+        margin-right: 80px;
+    }
+
+    #awesome-features{
+        padding-top: 80px;
+    }
+    
+    #awesome-features h1{
+        margin-bottom: 30px;
+    }
+    
+    #awesome-features p{
+        margin-bottom: 80px;
+    }
+
+
+
+    #contact{
+        padding: 100px 25px;
+    }
+
+    #contact h1{
+        font-size: 30px;
+        margin-bottom:60px;
+    }
+    
+    #contact p{
+        margin-top: 40px;
+    }
+
+    .myForm input{
+        padding: 15px 18px;
+        margin-right: 15px;
+    }
+    
+    .form-btn{
+        padding: 15px 70px;
+    }
+    
+}
+
+@media(max-width:768px){
+    #header h1{
+        font-size: 45px;
+        line-height: 50px;
+        margin-bottom: 25px;
+    }
+
+
+    .first-col{
+        width: 50%;
+    }
+
+
+    .second-col{
+        width:430px;
+    }
+
+
+    #features{
+        padding: 100px 15px;
+    }
+
+    #features h1{
+        font-size: 26px;
+        line-height: 30px;
+        margin-bottom: 40px;
+    }
+
+    #res-design{
+        padding: 70px 15px;
+    }
+
+    .res-col1{
+        width: 50%;
+    }
+    .res-col1 img{
+        width: 90%;
+    }
+    
+    .res-col2{
+        padding: 15px;
+        width: 50%;
+    }
+    .res-col2 h1{
+        font-size: 26px;
+        line-height: 30px;
+        margin-top: 20px;
+        margin-bottom: 35px;
+    }
+
+    #testimonials{
+        padding: 30px 70px;
+    }
+    .brand-content{
+        margin-top: 60px;
+    }
+    .brands img{
+        margin-right: 20px;
+    }
+
+    #awesome-features h1{
+        font-size: 27px;
+        color: #282828;
+        margin-bottom: 30px;
+    }
+
+    #awesome-features p{
+        margin-bottom: 60px;
+    }
+
+    .big-com{
+        width: 80%;
+    }
+
+
+    #contact{
+        padding: 90px 18px;
+    }
+
+    #contact h1{
+        font-size: 26px;
+        margin-bottom:55px;
+    }
+    .myForm input{
+        padding: 12px 15px;
+        margin-right: 5px;
+        width: 23%;
+    }
+    
+    .form-btn{
+        padding: 12px 50px;
+        width: 23%;
+    }
+
+    #footer{
+        padding: 60px 0px;
+    }
+
+    .footer-content{
+        display: flex;
+        padding: 15px;
+        width: 70%;
+    }
+
+    .footer-content h2{
+        font-size: 17px;
+        color: #282828;
+    }
+
+
+    .support ul li{
+        margin-bottom: 10px;
+    }
+    
+    .about ul{
+        list-style: none;
+    }
+    
+    .about ul li{
+        margin-bottom: 10px;
+    }
+    
+}
+
+
+@media(max-width:576px){
+    #header h1{
+        font-size: 38px;
+        line-height: 50px;
+        margin-bottom: 25px;
+    }
+
+    .btn{
+        margin-top: 60px;
+        padding:7px 25px;
+        font-size: 14px;
+    }
+
+
+    #platform{
+        text-align: center;
+    }
+
+    .first-col{
+        width: 100%;
+        padding-right: 0px;
+    }
+    .second-col{
+        display: none;
+    }
+
+    #features{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .feature-content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .feature-content .col{
+        width: 60%;
+        margin-right: 0px;
+        margin-top: 20px;
+    }
+
+    #res-design{
+        position: relative;
+    }
+    .res-col1{
+        display: none;
+    }
+    .res-col2{
+        width: 80%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .res-col2 h2{
+        color: #fff;
+    }
+
+    .res-col2 h1{
+        color: #fff;
+    }
+
+    .res-col2 p{
+        color: #fff;
+    }
+
+
+    .testi-content{
+        display: flex;flex-direction: column;
+        /* text-align: center; */
+    }
+
+    .testimonial{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .testimonial:last-child{
+        margin-left: 40px;
+    }
+    .brand-content{
+        width: 100%;
+        text-align: center;
+    }
+
+    .brands{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .brands img{
+        width: 40%;
+        margin-bottom: 40px;
+    }
+
+    #awesome-features{
+        padding-top: 70px;
+        /* padding-bottom: 70px; */
+        padding-left: 50px;
+        padding-right: 50px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    #awesome-features h1{
+        margin-bottom: 20px;
+        font-size: 26px;
+    }
+
+    #contact .container{
+        width: 100%;
+        text-align: center;
+    }
+
+    .myForm{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .myForm input{
+        width: 90%;
+        border-left: 1px solid #fff;
+        border-top: 1px solid #fff;
+        margin-right: 0;
+        margin-bottom: 10px;
+        display: block;
+    }
+
+
+    .form-btn{
+        width: 90%;
+    }
+
+    #footer{
+        padding: 60px 0;
+    }
+
+    .footer-content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        padding: 20px;
+        /* margin: 0 auto; */
+    }
+
+    .logo-div, .support, .about, .newsletter{
+        width: 80%;
+        margin-right: 0;
+        padding: 10px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .footer-content h2{
+        color: #fff;
+        font-size: 25px;
+    }
+
+    .footer-content p{
+        color: #fff;
+    }
+
+    .footer-content ul li a{
+        color: #fff;
+    }
+
+    .newsletter a {
+        position: relative;
+        left: -14px;
+        top: 1px;
+    }
+
+    #footer .move-up {
+        position: absolute;
+        right: 6%;
+        bottom: 3%;
+        font-size: 15px;
+    }
+}
